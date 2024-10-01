@@ -1,0 +1,4 @@
+browser chrome	
+url https://www.amazon.in/
+email sumeetgupta3293@gmail.com
+password Sumeetgupta@93

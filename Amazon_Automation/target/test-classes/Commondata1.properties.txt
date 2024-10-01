@@ -1,0 +1,6 @@
+browser chrome	
+url https://www.amazon.in/
+fname sumit
+mobile  9545002693
+email sk9087@gmail.com
+password Sumeet@gupta9
